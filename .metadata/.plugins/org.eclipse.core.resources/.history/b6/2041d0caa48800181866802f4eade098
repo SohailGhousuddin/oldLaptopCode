@@ -1,0 +1,33 @@
+import java.util.LinkedList;
+
+public class BFSGraph {
+	
+	int V; 
+	LinkedList<Integer> adj[];
+	
+	BFSGraph(int v)
+	{
+		this.V = v;
+		for(int i=0;i<v;i++)
+		{
+			adj[i]=new LinkedList<>();
+		}
+	}
+	
+	public void addEdge(int srcVertex,int destVertex)
+	{
+		adj[srcVertex].add(destVertex);
+	}
+	
+	// 0-1,2
+	//
+	public static void main(String args[])
+	{
+		BFSGraph bsf = new BFSGraph(5);
+		bsf.addEdge(0, 1);
+		bsf.addEdge(1, 2);
+		bsf.addEdge(1, 4);
+		bsf.addEdge(2, 3);
+	}
+
+}

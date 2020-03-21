@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.ImportResource"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+<fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.text.PDFTextStripper"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDDocument"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.cos.COSDocument"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdfparser.PDFParser"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.RandomAccessFile"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPage"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.font.PDFont"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.font.PDType1Font"/>
+<fullyQualifiedTypeName name="org.apache.pdfbox.pdmodel.PDPageContentStream"/>
+<fullyQualifiedTypeName name="java.io.InputStream"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.engine.JasperReport"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.engine.JasperCompileManager"/>
+<fullyQualifiedTypeName name="java.util.Map"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.engine.JasperPrint"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.engine.JasperFillManager"/>
+<fullyQualifiedTypeName name="java.util.HashMap"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.engine.data.JRBeanCollectionDataSource"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.engine.export.JRPdfExporter"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.export.SimpleOutputStreamExporterOutput"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.export.SimplePdfReportConfiguration"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.export.SimplePdfExporterConfiguration"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

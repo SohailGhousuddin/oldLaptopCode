@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;PDFReader/src/main/resources/templates/Report.html&apos; to &apos;index.html&apos;" description="Rename resource &apos;Report.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templates/Report.html" name="index.html" stamp="1535345772368" updateReferences="true"/>
+</session>

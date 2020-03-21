@@ -1,0 +1,9 @@
+class ANode {
+    int key, height;
+    Node left, right;
+ 
+    ANode(int d) {
+        key = d;
+        height = 1;
+    }
+}
